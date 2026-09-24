@@ -1,0 +1,91 @@
+DECKLIST POKEMON TCG -- Marnie's Grimmsnarl ex + Munkidori (versione: B - mazzo consensus, 60 carte)
+
+Elenco:
+  x10 [7] Basic {D} Energy  (Energia)
+  x4  [646] Marnie's Impidimp  (Pokemon)
+  x4  [112] Munkidori  (Pokemon)
+  x3  [648] Marnie's Grimmsnarl ex  (Pokemon)
+  x3  [647] Marnie's Morgrem  (Pokemon)
+  x2  [104] Froslass  (Pokemon)
+  x2  [860] Snorunt  (Pokemon)
+  x4  [1086] Buddy-Buddy Poffin  (Trainer)
+  x4  [1227] Lillie's Determination  (Trainer)
+  x4  [1152] Poké Pad  (Trainer)
+  x4  [1259] Spikemuth Gym  (Trainer)
+  x4  [1219] Team Rocket's Petrel  (Trainer)
+  x3  [1097] Night Stretcher  (Trainer)
+  x3  [1079] Rare Candy  (Trainer)
+  x2  [1182] Boss’s Orders  (Trainer)
+  x1  [1231] Dawn  (Trainer)
+  x1  [1122] Pokégear 3.0  (Trainer)
+  x1  [1137] Tool Scrapper  (Trainer)
+  x1  [1080] Unfair Stamp  (Trainer)
+
+Dettaglio carte (statistiche, abilita', attacchi/effetti):
+
+[7] Basic {D} Energy  x10
+  Basic Energy
+
+[646] Marnie's Impidimp  x4
+  Basic Pokémon, HP 70, Tipo {D} (Debolezza {G}, Ritirata 1)
+  Attacco Filch [●]: Draw a card.
+  Attacco Corkscrew Punch [{D}] 10 danni
+
+[112] Munkidori  x4
+  Basic Pokémon, HP 110, Tipo {P} (Debolezza {D}, Resistenza {F}, Ritirata 1)
+  Abilita' Adrena-Brain: Once during your turn, if this Pokémon has any {D} Energy attached, you may move up to 3 damage counters from 1 of your Pokémon to 1 of your opponent’s Pokémon.
+  Attacco Mind Bend [{P}●] 60 danni: Your opponent’s Active Pokémon is now Confused.
+
+[648] Marnie's Grimmsnarl ex  x3
+  Stage 2 Pokémon, evolve da Marnie's Morgrem, HP 320, Tipo {D} (Debolezza {G}, Ritirata 2) [Pokémon ex]
+  Abilita' Punk Up: When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may search your deck for up to 5 Basic {D} Energy cards and attach them to your Marnie’s Pokémon in any way you like. Then, shuffle your deck.
+  Attacco Shadow Bullet [{D}{D}] 180 danni: This attack also does 30 damage to 1 of your opponent’s Benched Pokémon. (Don’t apply Weakness and Resistance for Benched Pokémon.)
+
+[647] Marnie's Morgrem  x3
+  Stage 1 Pokémon, evolve da Marnie's Impidimp, HP 100, Tipo {D} (Debolezza {G}, Ritirata 1)
+  Attacco Corkscrew Punch [{D}{D}] 60 danni
+
+[104] Froslass  x2
+  Stage 1 Pokémon, evolve da Snorunt, HP 90, Tipo {W} (Debolezza {M}, Ritirata 1)
+  Abilita' Freezing Shroud: During Pokémon Checkup, put 1 damage counter on each Pokémon that has an Ability (both yours and your opponent’s), except any Froslass.
+  Attacco Frost Smash [{W}●] 60 danni
+
+[860] Snorunt  x2
+  Basic Pokémon, HP 70, Tipo {W} (Debolezza {M}, Ritirata 1)
+  Attacco Chilly [{W}] 10 danni
+
+[1086] Buddy-Buddy Poffin  x4
+  Item: Search your deck for up to 2 Basic Pokémon with 70 HP or less and put them onto your Bench. Then, shuffle your deck.
+
+[1227] Lillie's Determination  x4
+  Supporter: Shuffle your hand into your deck. Then, draw 6 cards. If you have exactly 6 Prize cards remaining, draw 8 cards instead.
+
+[1152] Poké Pad  x4
+  Item: Search your deck for a Pokémon that doesn’t have a Rule Box, reveal it, and put it into your hand. Then, shuffle your deck. (Pokémon {ex}, Pokémon {V}, etc. have Rule Boxes.)
+
+[1259] Spikemuth Gym  x4
+  Stadium: Once during each player’s turn, that player may search their deck for a Marnie’s Pokémon, reveal it, and put it into their hand. Then, that player shuffles their deck.
+
+[1219] Team Rocket's Petrel  x4
+  Supporter: Search your deck for a Trainer card, reveal it, and put it into your hand. Then, shuffle your deck.
+
+[1097] Night Stretcher  x3
+  Item: Put a Pokémon or a Basic Energy card from your discard pile into your hand.
+
+[1079] Rare Candy  x3
+  Item: Choose 1 of your Basic Pokémon in play. If you have a Stage 2 card in your hand that evolves from that Pokémon, put that card onto the Basic Pokémon to evolve it, skipping the Stage 1. You can’t use this card during your first turn or on a Basic Pokémon that was put into play this turn.
+
+[1182] Boss’s Orders  x2
+  Supporter: Switch in 1 of your opponent’s Benched Pokémon to the Active Spot.
+
+[1231] Dawn  x1
+  Supporter: Search your deck for a Basic Pokémon, a Stage 1 Pokémon, and a Stage 2 Pokémon, reveal them, and put them into your hand. Then, shuffle your deck.
+
+[1122] Pokégear 3.0  x1
+  Item: Look at the top 7 cards of your deck. You may reveal a Supporter card you find there and put it into your hand. Shuffle the other cards back into your deck.
+
+[1137] Tool Scrapper  x1
+  Item: Choose up to 2 Pokémon Tools attached to Pokémon (yours or your opponent’s) and discard them.
+
+[1080] Unfair Stamp  x1
+  Item [ACE SPEC]: You can use this card only if any of your Pokémon were Knocked Out during your opponent’s last turn. Each player shuffles their hand into their deck. Then, you draw 5 cards, and your opponent draws 2 cards.

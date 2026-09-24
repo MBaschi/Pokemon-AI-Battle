@@ -1,0 +1,3 @@
+# dataset e modelli generati (rigenerabili con build_dataset.py / train_classifier.py)
+data/
+__pycache__/

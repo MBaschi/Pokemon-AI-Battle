@@ -1,0 +1,17 @@
+# checkpoint e output di training (rigenerabili con train_selfplay.py)
+out/
+out_*/
+__pycache__/
+
+# dataset estratto dai replay (~3 GB, rigenerabile con build_replay_dataset.py)
+data/
+
+# log di training
+*_log.txt
+train_log.txt
+
+# replay HTML annotati (~3 MB l'uno, rigenerabili con replay_export.py)
+replays/
+
+# checkpoint dei notebook
+.ipynb_checkpoints/

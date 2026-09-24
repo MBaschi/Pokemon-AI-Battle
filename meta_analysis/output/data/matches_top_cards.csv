@@ -1,0 +1,476 @@
+card_id,card_name,copie_totali,tipo,categoria
+7,Basic {D} Energy,73033,{D},Energy
+1152,Poké Pad,62209,,Trainer
+1086,Buddy-Buddy Poffin,60043,,Trainer
+1227,Lillie's Determination,49269,,Trainer
+1182,Boss’s Orders,36702,,Trainer
+1079,Rare Candy,34675,,Trainer
+1097,Night Stretcher,32667,,Trainer
+1219,Team Rocket's Petrel,29445,,Trainer
+112,Munkidori,29161,{P},Pokémon
+1259,Spikemuth Gym,27990,,Trainer
+646,Marnie's Impidimp,27914,{D},Pokémon
+1225,Hilda,25693,,Trainer
+1231,Dawn,24394,,Trainer
+648,Marnie's Grimmsnarl ex,21092,{D},Pokémon
+647,Marnie's Morgrem,20815,{D},Pokémon
+1197,Xerosic’s Machinations,20457,,Trainer
+19,Telepath Psychic Energy,17687,{P},Energy
+742,Kadabra,17018,{P},Pokémon
+741,Abra,17010,{P},Pokémon
+743,Alakazam,16962,{P},Pokémon
+1081,Enhanced Hammer,16640,,Trainer
+1,Basic {G} Energy,15083,{G},Energy
+860,Snorunt,14139,{W},Pokémon
+104,Froslass,13854,{W},Pokémon
+305,Dunsparce,12712,{C},Pokémon
+5,Basic {P} Energy,12360,{P},Energy
+1122,Pokégear 3.0,12148,,Trainer
+6,Basic {F} Energy,10992,{F},Energy
+66,Dudunsparce,10028,{C},Pokémon
+1080,Unfair Stamp,8806,,Trainer
+1266,Nighttime Mine,7794,,Trainer
+1121,Ultra Ball,6905,,Trainer
+20,Rock Fighting Energy,6318,{F},Energy
+1142,Fighting Gong,6214,,Trainer
+1134,Team Rocket's Transceiver,5418,,Trainer
+15,Team Rocket's Energy,5382,{Team Rocket}{Team Rocket},Energy
+401,Team Rocket's Spidops,5342,{G},Pokémon
+400,Team Rocket's Tarountula,5342,{G},Pokémon
+1216,Team Rocket's Ariana,5268,,Trainer
+11,Mist Energy,5117,{C},Energy
+1147,Jumbo Ice Cream,5095,,Trainer
+1123,Switch,5068,,Trainer
+1137,Tool Scrapper,5039,,Trainer
+140,Fezandipiti ex,4798,{D},Pokémon
+1094,Bug Catching Set,4733,,Trainer
+756,Mega Kangaskhan ex,4731,{C},Pokémon
+1129,Sacred Ash,4654,,Trainer
+341,Cynthia's Roselia,4553,{G},Pokémon
+380,Cynthia's Gabite,4552,{F},Pokémon
+379,Cynthia's Gible,4552,{F},Pokémon
+344,Dwebble,4505,{G},Pokémon
+345,Crustle,4493,{G},Pokémon
+18,Grow Grass Energy,4483,{G},Energy
+1220,Team Rocket's Proton,4431,,Trainer
+3,Basic {W} Energy,4356,{W},Energy
+1184,Lana’s Aid,4325,,Trainer
+14,Spiky Energy,4302,{C},Energy
+13,Enriching Energy,4241,{C},Energy
+343,Shaymin,4239,{G},Pokémon
+1161,Handheld Fan,3824,,Pokémon
+1218,Team Rocket's Giovanni,3789,,Trainer
+1257,Team Rocket's Factory,3752,,Trainer
+342,Cynthia's Roserade,3502,{G},Pokémon
+1173,Cynthia's Power Weight,3417,,Pokémon
+381,Cynthia's Garchomp ex,3414,{F},Pokémon
+1120,Crushing Hammer,3171,,Trainer
+1264,Battle Cage,3166,,Trainer
+414,Team Rocket's Articuno,3111,{W},Pokémon
+1159,Hero’s Cape,3110,,Pokémon
+434,Team Rocket's Mimikyu,2794,{P},Pokémon
+431,Team Rocket's Mewtwo ex,2678,{P},Pokémon
+1198,Crispin,2396,,Trainer
+1261,Forest of Vitality,2327,,Trainer
+387,Cynthia's Spiritomb,2167,{D},Pokémon
+8,Basic {M} Energy,2164,{M},Energy
+1175,Brave Bangle,1992,,Pokémon
+2,Basic {R} Energy,1917,{R},Energy
+119,Dreepy,1879,竜,Pokémon
+120,Drakloak,1877,竜,Pokémon
+1229,Wally's Compassion,1749,,Trainer
+1141,Premium Power Pro,1602,,Trainer
+678,Mega Lucario ex,1555,{F},Pokémon
+1102,Dusk Ball,1551,,Trainer
+677,Riolu,1474,{F},Pokémon
+121,Dragapult ex,1420,竜,Pokémon
+1192,Carmine,1413,,Trainer
+1256,Team Rocket's Watchtower,1304,,Trainer
+1213,Judge,1286,,Trainer
+65,Dunsparce,1247,{C},Pokémon
+1087,Hand Trimmer,1216,,Trainer
+1217,Team Rocket's Archer,1201,,Trainer
+676,Solrock,1158,{F},Pokémon
+1071,Meowth ex,1124,{C},Pokémon
+4,Basic {L} Energy,1092,{L},Energy
+1205,Cyrano,1055,,Trainer
+1203,Surfer,1050,,Trainer
+235,Budew,997,{G},Pokémon
+666,Cinderace,971,{R},Pokémon
+1116,Energy Switch,955,,Trainer
+1119,Energy Search,938,,Trainer
+292,N’s Zorua,937,{D},Pokémon
+293,N’s Zoroark ex,936,{D},Pokémon
+1113,N’s PP Up,934,,Trainer
+675,Lunatone,810,{F},Pokémon
+1185,Explorer’s Guidance,808,,Trainer
+96,Teal Mask Ogerpon ex,775,{G},Pokémon
+1250,Area Zero Underdepths,758,,Trainer
+169,Duraludon,741,{M},Pokémon
+190,Archaludon ex,740,{M},Pokémon
+1174,Air Balloon,714,,Pokémon
+1244,Full Metal Lab,688,,Trainer
+1145,Mega Signal,668,,Trainer
+848,Buneary,617,{C},Pokémon
+117,Cornerstone Mask Ogerpon ex,610,{F},Pokémon
+463,Team Rocket's Murkrow,601,{D},Pokémon
+93,Dipplin,587,{G},Pokémon
+1253,N’s Castle,580,,Trainer
+1247,Neutralization Zone,552,,Trainer
+164,Comfey,548,{P},Pokémon
+92,Applin,548,{G},Pokémon
+849,Mega Lopunny ex,512,{C},Pokémon
+1245,Festival Grounds,506,,Trainer
+90,Thwackey,499,{G},Pokémon
+89,Grookey,499,{G},Pokémon
+1194,Colress’s Tenacity,485,,Trainer
+817,Bramblin,482,{P},Pokémon
+184,Latias ex,474,{P},Pokémon
+506,Cubchoo,471,{W},Pokémon
+303,N’s Reshiram,468,竜,Pokémon
+1030,Staryu,440,{W},Pokémon
+247,Swirlix,428,{P},Pokémon
+1031,Mega Starmie ex,401,{W},Pokémon
+63,Raging Bolt ex,370,竜,Pokémon
+1098,Glass Trumpet,368,,Trainer
+818,Brambleghast,362,{P},Pokémon
+131,Duskull,361,{P},Pokémon
+673,Makuhita,343,{F},Pokémon
+1252,Gravity Mountain,343,,Trainer
+674,Hariyama,343,{F},Pokémon
+1166,Gravity Gemstone,342,,Pokémon
+132,Dusclops,334,{P},Pokémon
+17,Ignition Energy,330,{C}{C}{C},Energy
+1210,Brock’s Scouting,314,,Trainer
+1189,Salvatore,292,,Trainer
+16,Prism Energy,257,{A},Energy
+432,Team Rocket's Wobbuffet,256,{P},Pokémon
+1187,Morty’s Conviction,242,,Trainer
+906,N's Zekrom,239,竜,Pokémon
+723,Mega Abomasnow ex,239,{W},Pokémon
+1176,Punk Helmet,236,,Pokémon
+272,Lillie’s Clefairy ex,235,{P},Pokémon
+722,Snover,233,{W},Pokémon
+1262,Surfing Beach,221,,Trainer
+1235,Waitress,220,,Trainer
+1144,Strange Timepiece,214,,Trainer
+133,Dusknoir,210,{P},Pokémon
+108,Wellspring Mask Ogerpon ex,195,{W},Pokémon
+1088,Prime Catcher,192,,Trainer
+861,Mega Froslass ex,190,{W},Pokémon
+1146,Wondrous Patch,188,,Trainer
+978,Passimian,183,{F},Pokémon
+1246,Jamming Tower,180,,Trainer
+58,Great Tusk,174,{F},Pokémon
+689,Yveltal,174,{D},Pokémon
+57,Relicanth,167,{F},Pokémon
+1260,Risky Ruins,146,,Trainer
+1236,Urbain,145,,Trainer
+791,Moltres,142,{R},Pokémon
+174,Fan Rotom,137,{C},Pokémon
+1188,Ciphermaniac’s Codebreaking,134,,Trainer
+73,Rellor,128,{G},Pokémon
+141,Pecharunt ex,128,{D},Pokémon
+1204,Lisia’s Appeal,127,,Trainer
+74,Rabsca,125,{G},Pokémon
+1156,Lucky Helmet,124,,Pokémon
+258,N’s Darmanitan,123,{R},Pokémon
+257,N’s Darumaka,123,{R},Pokémon
+721,Kyogre,120,{W},Pokémon
+1195,Janine’s Secret Art,116,,Trainer
+1224,Cheren,115,,Trainer
+1233,Canari,114,,Trainer
+1127,Tera Orb,108,,Trainer
+1186,Eri,107,,Trainer
+1212,Cook,101,,Trainer
+710,Meganium,94,{G},Pokémon
+268,Iono’s Tadbulb,92,{L},Pokémon
+269,Iono’s Bellibolt ex,92,{L},Pokémon
+270,Iono’s Wattrel,91,{L},Pokémon
+709,Bayleef,90,{G},Pokémon
+271,Iono’s Kilowattrel,90,{L},Pokémon
+1254,Levincia,89,,Trainer
+1223,Harlequin,87,,Trainer
+150,Hydrapple ex,87,{G},Pokémon
+917,Chikorita,85,{G},Pokémon
+1249,Grand Tree,85,,Trainer
+265,Iono’s Voltorb,84,{L},Pokémon
+920,Tapu Bulu,82,{G},Pokémon
+1118,Energy Retrieval,80,,Trainer
+878,Hop's Phantump,72,{P},Pokémon
+1255,Postwick,70,,Trainer
+1171,Hop’s Choice Band,67,,Pokémon
+306,Dudunsparce ex,66,{C},Pokémon
+1158,Maximum Belt,64,,Pokémon
+649,Marnie's Morpeko,59,{D},Pokémon
+1115,Hop’s Bag,58,,Trainer
+879,Hop's Trevenant,57,{P},Pokémon
+745,Ralts,52,{P},Pokémon
+1139,Energy Recycler,51,,Trainer
+1208,Iris’s Fighting Spirit,45,,Trainer
+98,Chandelure,44,{R},Pokémon
+103,Snorunt,42,{W},Pokémon
+304,Hop’s Snorlax,40,{C},Pokémon
+607,Terrakion,40,{F},Pokémon
+746,Kirlia,39,{P},Pokémon
+747,Mega Gardevoir ex,39,{P},Pokémon
+1211,Black Belt’s Training,37,,Trainer
+1242,Community Center,37,,Trainer
+1077,Roto-Stick,35,,Trainer
+352,Ethan's Cyndaquil,33,{R},Pokémon
+12,Legacy Energy,33,{A},Energy
+1110,Max Rod,33,,Trainer
+1215,Ethan's Adventure,32,,Trainer
+1202,Drayton,31,,Trainer
+354,Ethan's Typhlosion,31,{R},Pokémon
+353,Ethan's Quilava,31,{R},Pokémon
+1191,Kieran,29,,Trainer
+1163,Powerglass,29,,Pokémon
+42,Applin,28,竜,Pokémon
+891,Team Rocket's Honchkrow,28,{D},Pokémon
+1092,Secret Box,27,,Trainer
+97,Litwick,27,{R},Pokémon
+1228,Acerola's Mischief,25,,Trainer
+858,Psyduck,24,{W},Pokémon
+1167,Deluxe Bomb,23,,Pokémon
+333,Riolu,23,{F},Pokémon
+1240,Rosa's Encouragement,22,,Trainer
+109,Abra,22,{P},Pokémon
+142,Genesect,22,{M},Pokémon
+311,Hop’s Cramorant,22,{C},Pokémon
+1239,Naveen,21,,Trainer
+1238,Tarragon,20,,Trainer
+493,Litwick,20,{R},Pokémon
+122,Tatsugiri,19,竜,Pokémon
+1124,Pokémon Catcher,18,,Trainer
+1084,Boxed Order,18,,Trainer
+330,Sylveon,18,{P},Pokémon
+1181,Billy & O'Nare,17,,Trainer
+650,Bulbasaur,17,{G},Pokémon
+317,Eevee,17,{C},Pokémon
+473,Team Rocket's Porygon,17,{C},Pokémon
+1206,Larry’s Skill,16,,Trainer
+183,Smoochum,16,{P},Pokémon
+24,Team Rocket's Kangaskhan ex,16,{C},Pokémon
+651,Ivysaur,16,{G},Pokémon
+652,Mega Venusaur ex,16,{G},Pokémon
+474,Team Rocket's Porygon2,16,{C},Pokémon
+494,Lampent,16,{R},Pokémon
+597,Frillish,14,{P},Pokémon
+1056,Mega Zygarde ex,14,{F},Pokémon
+1190,Bianca’s Devotion,14,,Trainer
+149,Applin,13,{G},Pokémon
+31,Chi-Yu,13,{R},Pokémon
+1267,Lumiose City,13,,Trainer
+772,Mega Gengar ex,12,{D},Pokémon
+819,Paldean Tauros,12,{F},Pokémon
+935,Fuecoco,12,{R},Pokémon
+37,Iron Thorns ex,12,{L},Pokémon
+1051,Binacle,12,{F},Pokémon
+1052,Barbaracle,12,{F},Pokémon
+100,Goldeen,12,{W},Pokémon
+88,Volbeat,12,{G},Pokémon
+390,Tauros,12,{C},Pokémon
+203,Skeledirge,12,{R},Pokémon
+240,Seaking,12,{W},Pokémon
+22,Hippopotas,12,{F},Pokémon
+116,Okidogi,12,{F},Pokémon
+1057,Gastly,12,{D},Pokémon
+757,Delibird,12,{C},Pokémon
+1199,Lacey,11,,Trainer
+834,Toxtricity,11,{D},Pokémon
+708,Chikorita,11,{G},Pokémon
+36,Morpeko,11,{L},Pokémon
+833,Toxel,11,{D},Pokémon
+464,Team Rocket's Sneasel,10,{D},Pokémon
+655,Celebi,9,{G},Pokémon
+173,Noctowl,9,{C},Pokémon
+135,Bloodmoon Ursaluna,9,{F},Pokémon
+172,Hoothoot,9,{C},Pokémon
+33,Froakie,8,{W},Pokémon
+28,Poltchageist,8,{G},Pokémon
+909,Erika's Oddish,8,{G},Pokémon
+1177,Sacred Charm,8,,Pokémon
+1126,Precious Trolley,8,,Trainer
+1209,Ruffian,8,,Trainer
+25,Pinsir,8,{G},Pokémon
+35,Walking Wake,8,{W},Pokémon
+1237,Lucian,8,,Trainer
+27,Iron Leaves,8,{G},Pokémon
+230,Pecharunt,7,{D},Pokémon
+349,Teal Mask Ogerpon,7,{G},Pokémon
+758,Buneary,7,{C},Pokémon
+961,Marill,6,{P},Pokémon
+979,Koraidon ex,6,{F},Pokémon
+1162,Binding Mochi,6,,Pokémon
+326,Blaziken ex,6,{R},Pokémon
+47,Totodile,6,{W},Pokémon
+941,Spheal,6,{W},Pokémon
+910,Erika's Gloom,6,{G},Pokémon
+915,Erika's Tangela,6,{G},Pokémon
+828,Mega Sharpedo ex,6,{D},Pokémon
+781,Mega Heracross ex,6,{G},Pokémon
+1241,Jacinthe,6,,Trainer
+827,Carvanha,6,{D},Pokémon
+771,Haunter,6,{D},Pokémon
+911,Erika's Vileplume ex,6,{G},Pokémon
+10,Neo Upper Energy,6,{A}{A},Energy
+1201,Briar,6,,Trainer
+315,Azumarill,6,{P},Pokémon
+475,Team Rocket's Porygon-Z,6,{C},Pokémon
+1214,Emcee's Hype,5,,Trainer
+840,Archaludon,5,{M},Pokémon
+943,Walrein,5,{W},Pokémon
+222,Dedenne,5,{P},Pokémon
+410,Torchic,5,{R},Pokémon
+1165,Sparkling Crystal,5,,Pokémon
+209,Chien-Pao,5,{W},Pokémon
+1125,Master Ball,5,,Trainer
+896,Mega Scrafty ex,4,{D},Pokémon
+882,Team Rocket's Dugtrio,4,{F},Pokémon
+813,Mismagius ex,4,{P},Pokémon
+1221,N's Plan,4,,Trainer
+328,Pikachu ex,4,{L},Pokémon
+357,Ethan's Ho-Oh ex,4,{R},Pokémon
+886,Mega Hawlucha ex,4,{F},Pokémon
+634,Tornadus,4,{C},Pokémon
+950,Magnemite,4,{L},Pokémon
+942,Sealeo,4,{W},Pokémon
+687,Mega Absol ex,4,{D},Pokémon
+875,Misdreavus,4,{P},Pokémon
+895,Scraggy,4,{D},Pokémon
+526,Drilbur,4,{F},Pokémon
+511,Tynamo,4,{L},Pokémon
+803,Suicune,4,{W},Pokémon
+43,Eevee,4,{C},Pokémon
+1258,Granite Cave,4,,Trainer
+1251,Lively Stadium,4,,Trainer
+766,Mega Diancie ex,4,{P},Pokémon
+162,Slowpoke,4,{P},Pokémon
+154,Lapras ex,4,{W},Pokémon
+583,Keldeo ex,4,{W},Pokémon
+510,Emolga,4,{L},Pokémon
+1130,Arven's Sandwich,4,,Trainer
+1155,Survival Brace,4,,Pokémon
+1132,Team Rocket's Great Ball,4,,Trainer
+81,Drilbur,4,{F},Pokémon
+1243,Perilous Jungle,4,,Trainer
+1248,Academy at Night,4,,Trainer
+1172,Lillie’s Pearl,4,,Pokémon
+318,Ho-Oh,4,{R},Pokémon
+415,Clamperl,4,{W},Pokémon
+418,Snover,4,{W},Pokémon
+239,Flareon ex,4,{R},Pokémon
+158,Drednaw,4,{W},Pokémon
+157,Chewtle,4,{W},Pokémon
+1068,Klefki,4,{M},Pokémon
+1090,Ogre’s Mask,4,,Trainer
+527,Excadrill ex,4,{F},Pokémon
+245,Alakazam,3,{P},Pokémon
+416,Huntail,3,{W},Pokémon
+236,Leafeon ex,3,{G},Pokémon
+447,Regirock ex,3,{F},Pokémon
+249,Eevee ex,3,{C},Pokémon
+378,Ethan's Sudowoodo,3,{F},Pokémon
+417,Gorebyss,3,{W},Pokémon
+531,Throh,3,{F},Pokémon
+1157,Rescue Board,3,,Pokémon
+733,Magneton,3,{L},Pokémon
+734,Magnezone,3,{L},Pokémon
+664,Scorbunny,3,{R},Pokémon
+720,Mantine,3,{W},Pokémon
+868,Mega Eelektross ex,3,{L},Pokémon
+724,Clauncher,3,{W},Pokémon
+725,Clawitzer,3,{W},Pokémon
+874,Team Rocket's Exeggutor,3,{P},Pokémon
+873,Team Rocket's Exeggcute,3,{P},Pokémon
+918,Bayleef,3,{G},Pokémon
+163,Slowking,3,{P},Pokémon
+1109,Miracle Headset,3,,Trainer
+1149,Energy Swatter,3,,Trainer
+425,Team Rocket's Zapdos,2,{L},Pokémon
+325,Combusken,2,{R},Pokémon
+411,Combusken,2,{R},Pokémon
+91,Rillaboom,2,{G},Pokémon
+95,Teal Mask Ogerpon,2,{G},Pokémon
+385,Arven's Toedscruel,2,{F},Pokémon
+944,Regice ex,2,{W},Pokémon
+347,Dipplin,2,{G},Pokémon
+338,Ethan's Pinsir,2,{G},Pokémon
+957,Miraidon ex,2,{L},Pokémon
+958,Clefable,2,{P},Pokémon
+693,Grafaiai,2,{D},Pokémon
+331,XerneasEX,2,{P},Pokémon
+364,Misty's Lapras,2,{W},Pokémon
+369,Dondozo ex,2,{W},Pokémon
+986,Brute Bonnet,2,{D},Pokémon
+695,Mega Mawile ex,2,{M},Pokémon
+682,Stonjourner,2,{F},Pokémon
+665,Raboot,2,{R},Pokémon
+1114,Redeemable Ticket,2,,Trainer
+969,Scream Tail ex,2,{P},Pokémon
+638,Steven's Skarmory,2,{M},Pokémon
+1193,Hassel,2,,Trainer
+1196,Cassiopeia,2,,Trainer
+407,Team Rocket's Moltres ex,2,{R},Pokémon
+433,Team Rocket's Chingling,2,{P},Pokémon
+386,Cornerstone Mask Ogerpon,2,{F},Pokémon
+1263,Mystery Garden,2,,Trainer
+170,Archaludon,2,{M},Pokémon
+1062,Yveltal ex,2,{D},Pokémon
+1154,Team Rocket’s Hypnotizer,2,,Pokémon
+1093,Scoop Up Cyclone,2,,Trainer
+488,Foongus,2,{G},Pokémon
+138,Okidogi ex,2,{D},Pokémon
+309,Hop’s Wooloo,2,{C},Pokémon
+1148,Blowtorch,2,,Trainer
+178,Zarude,2,{G},Pokémon
+277,N’s Sigilyph,2,{P},Pokémon
+1083,Love Ball,2,,Trainer
+115,Conkeldurr,2,{F},Pokémon
+1095,Dangerous Laser,2,,Trainer
+1039,Clefairy,2,{P},Pokémon
+144,Kyurem,2,竜,Pokémon
+1013,Shaymin,2,{G},Pokémon
+534,Landorus,2,{F},Pokémon
+299,Hop’s Zacian ex,2,{M},Pokémon
+872,Tapu Koko,1,{L},Pokémon
+348,Hydrapple,1,{G},Pokémon
+359,Misty's Psyduck,1,{W},Pokémon
+719,Chi-Yu,1,{R},Pokémon
+44,Bloodmoon Ursaluna ex,1,{C},Pokémon
+839,Duraludon,1,{M},Pokémon
+959,Togepi,1,{P},Pokémon
+373,Ethan's Pichu,1,{L},Pokémon
+987,Mawile,1,{M},Pokémon
+684,Naclstack,1,{F},Pokémon
+972,Hitmontop,1,{F},Pokémon
+970,Fezandipiti,1,{P},Pokémon
+940,Glalie,1,{W},Pokémon
+919,Mega Meganium ex,1,{G},Pokémon
+521,Elgyem,1,{P},Pokémon
+1112,Super Potion,1,,Trainer
+1091,Accompanying Flute,1,,Trainer
+1082,Hyper Aroma,1,,Trainer
+1055,Hawlucha,1,{F},Pokémon
+996,Larry's Dunsparce,1,{C},Pokémon
+1107,Scramble Switch,1,,Trainer
+139,Munkidori ex,1,{D},Pokémon
+602,Sawk,1,{F},Pokémon
+1100,Energy Search Pro,1,,Trainer
+310,Hop’s Dubwool,1,{C},Pokémon
+291,N’s Purrloin,1,{D},Pokémon
+1143,Repel,1,,Trainer
+246,Espeon ex,1,{P},Pokémon
+321,Petilil,1,{G},Pokémon
+316,Sylveon ex,1,{P},Pokémon
+322,Lilligant,1,{G},Pokémon
+75,Iron Leaves ex,1,{G},Pokémon
+1180,Core Memory,1,,Pokémon
+412,Blaziken,1,{R},Pokémon
+214,Togekiss,1,{P},Pokémon
+202,Victini,1,{R},Pokémon
+1207,Amarys,1,,Trainer
+280,Lillie’s Comfey,1,{P},Pokémon
+278,Lillie’s Cutiefly,1,{P},Pokémon
+9,Boomerang Energy,1,{C},Energy

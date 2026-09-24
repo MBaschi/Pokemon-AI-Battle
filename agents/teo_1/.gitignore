@@ -1,0 +1,4 @@
+# dataset e modelli generati (rigenerabili con build_replay_dataset.py / train_value_from_replays.py / main.py)
+data/
+out/
+__pycache__/
